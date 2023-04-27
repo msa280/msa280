@@ -12,5 +12,5 @@ I am proficient in: Python, Java, C, C++, HTML, CSS, PHP, MySQL, SQL, Prolog.
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=msa280)](https://github.com/msa280/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=msa280&layout=compact)](https://github.com/msa280/github-readme-stats)
 
