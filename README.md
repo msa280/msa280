@@ -7,3 +7,6 @@ I am proficient in: Python, Java, C, C++, HTML, CSS, PHP, MySQL, SQL, Prolog.
 
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I love to hit the gym and have a good protein smoothie before bed.
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=msa280)](https://github.com/msa280/github-readme-stats)
