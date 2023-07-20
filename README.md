@@ -1,4 +1,4 @@
-### Kia Ora ! 👋 My name is Haider 😄 and I am a Computer Science student who loves coding.
+### Kia Ora ! 👋 My name is Haider 😄 and I am a Computer Science graduate who loves coding.
 
 I am proficient in: Python, Java, C, C++, HTML, CSS, PHP, MySQL, SQL, Prolog.
 
