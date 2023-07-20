@@ -2,8 +2,8 @@
 
 I am proficient in: Python, Java, C, C++, HTML, CSS, PHP, MySQL, SQL, Prolog.
 
-- 🔭 I’m currently working on a graphical design project.
-- 🌱 I’m currently learning Graphical Designing, Linguistics and Computing Systems.
+- 🔭 I’m currently working on my portfolio website.
+- 🌱 I’m currently learning App Development.
 
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: 90% of the world's data was created in the last two years.
