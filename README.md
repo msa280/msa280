@@ -4,7 +4,7 @@ I am proficient in: Python, Java, C, C++, HTML, CSS, PHP, MySQL, SQL, Prolog.
 
 - 🔭 I’m currently working on my portfolio website.
 - 🌱 I’m currently learning App Development with React framework.
-- 🌱 I’m also completing a DATACOM certification.
+-  I’m also completing a DATACOM certification.
 
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: 90% of the world's data was created in the last two years.
