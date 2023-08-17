@@ -3,7 +3,7 @@
 I am proficient in: Python, Java, C, C++, HTML, CSS, PHP, MySQL, SQL, Prolog.
 
 - 🔭 I’m currently working on my portfolio website.
-- 🌱 I’m currently learning App Development with React framework.
+- 🌱 I’m currently learning App Development with PyQt, SQLite and Matplotlib. Creating an ANZ Bank Statement Manager tool.
 -  I’m also completing a DATACOM certification.
 
 - 😄 Pronouns: he/him
